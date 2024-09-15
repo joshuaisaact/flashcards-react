@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.create-flash-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1fr;
+}
+
+.create-input {
+  margin: 1rem;
+}
+
+button {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.quiz-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.question,
+.answer {
+  padding: 3rem;
+  min-width: 25rem;
+  min-height: 25rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.question {
+  background-color: rgb(67, 114, 129);
+}
+
+.answer {
+  background-color: rgb(65, 163, 65);
+}
+
+input {
+  padding: 0.5rem;
+}
