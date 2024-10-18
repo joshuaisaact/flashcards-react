@@ -1,8 +1,5 @@
-# React + Vite
+# Flashcard React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was bourne out of a simple idea - I wanted to practise my React skills whilst on a flight. I asked ChatGPT for a prompt that should take me about an hour (as I was flying from London to Newquay), and it give me a rough prompt for a flashcard app. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is what I managed to achieve in flight, with no internet access.
